@@ -19,9 +19,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabin245&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rabin245" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rabin245&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rabin245" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabin245&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rabin245" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rabin245&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rabin245" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabin245&theme=tokyonight&hide_border=true" alt="rabin245" /></p>
 

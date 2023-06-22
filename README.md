@@ -4,13 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabin245&label=Profile%20views&color=0e75b6&style=flat-square" alt="rabin245" /> </p>
 
 
-* 🧠  I'm learning **ReactJS**
+* 🖥️  See my portfolio at [MyPortfolio](http://rabindrabaisnab.com.np/)
+* ✉️  You can contact me at [drarabin@gmail.com](mailto:drarabin@gmail.com)
+* 🧠  I'm learning ReactJS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_zaxiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zaxiya" height="30" width="40" /></a>
 <a href="https://instagram.com/_zaxiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zaxiya" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/rabindra-baisnab-3360111bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabindra-baisnab-3360111bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rabindra-baisnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabindra-baisnab" height="30" width="40" /></a>
  
 </p>
 

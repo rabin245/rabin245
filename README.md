@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabin245&theme=tokyonight&hide_border=true" alt="rabin245" /></p>
 
-<a href="http://www.github.com/rabin245"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rabin245&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rabin245"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rabin245&theme=react-dark&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

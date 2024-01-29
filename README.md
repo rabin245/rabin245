@@ -6,7 +6,7 @@
 
 * 🖥️  See my portfolio at [MyPortfolio](http://rabindrabaisnab.com.np/)
 * ✉️  You can contact me at [drarabin@gmail.com](mailto:drarabin@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning NextJS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
